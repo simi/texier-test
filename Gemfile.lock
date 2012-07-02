@@ -1,0 +1,14 @@
+GIT
+  remote: git://github.com/simi/texier.git
+  revision: 27e03332310fa4b368e8adce057815489bed074b
+  specs:
+    texier (0.0.1)
+
+GEM
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  texier!
